@@ -8,4 +8,18 @@ body{
     width: 70%;
     background-color: darkcyan;
     color: white;
+    margin: auto;
+}
+#cabecera{
+    background-color: grey;
+    color: white;
+    height: 8%;
+    padding: 15px;   
+}
+#cabecera h1{
+    font-size: 20px;
+    font-weight: 500;
+}
+.container p{
+    padding: 25px;
 }
